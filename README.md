@@ -12,7 +12,8 @@ Usage
 
 Open your pdf. Run the command `pdfmouse` and the focus will switch to the pdf 
 (hopefully). Now the left and right buttons on the mouse will act as the left 
-and right arrow keys, and thus scroll the pdf horizontally.
+and right arrow keys, and thus scroll the pdf horizontally. Ctrl + scroll wheel 
+will zoom in and out in most pdf viewers.
 
 To make the mouse buttons function as you're used to, press ctrl as you click.
 
