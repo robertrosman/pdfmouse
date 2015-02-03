@@ -1,0 +1,7 @@
+#!/bin/bash
+
+xbindkeys -f ~/.xbindkeys-pdfmouse
+
+echo "Tryck [ctrl + alt + c] för att återgå till vanlig mus"
+
+wmctrl -a .pdf
