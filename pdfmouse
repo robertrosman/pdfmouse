@@ -2,6 +2,6 @@
 
 xbindkeys -f ~/.xbindkeys-pdfmouse
 
-echo "Tryck [ctrl + alt + c] för att återgå till vanlig mus"
+echo "Press [ctrl + alt + c] to get the regular mouse settings back"
 
 wmctrl -a .pdf
