@@ -2,8 +2,10 @@ Pdfmouse
 ========
 
 With Pdfmouse you can easily control your pdfs with only your mouse as a kind of 
-remote control. Use the scroll wheel as usual, scrolling the pdf up and down, 
-*but also* move the pdf sideways by clicking the left and right buttons.  
+remote control. This is handy when you want to take a step back from the 
+computer, or just don't want to reach for the keyboard every now and then. Use 
+the scroll wheel as usual, scrolling the pdf up and down, *but also* move the 
+pdf sideways by clicking the left and right buttons.  
 
 Usage
 -----
